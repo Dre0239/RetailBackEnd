@@ -41,6 +41,12 @@
 
 - [x] Test routes on insomina.
 
+## Pictures 
+<img src="./assets/insomnia post.png" alt ="pic of app" title="Post" />
+<img src="./assets/insomnia products pic.png" alt ="pic of app" title="Products" />
+<img src="./assets/insomnia tags pic.png" alt ="pic of app" title="Tags" />
+<img src="./assets/mysql pic 1.png" alt ="pic of app" title="Sql Pic" />
+<img src="./assets/mysql pic 2png.png" alt ="pic of app" title="Sql pic" />
 
 
 - (​GitHub Repo Page:) [https://github.com/Dre0239/RetailBackEnd]
